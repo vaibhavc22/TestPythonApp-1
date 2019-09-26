@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestBasic" duration-ms="12036" started-at="2019-09-26T11:44:34Z" finished-at="2019-09-26T11:44:46Z">
+    <groups>
+    </groups>
+    <test name="Basic" duration-ms="12036" started-at="2019-09-26T11:44:34Z" finished-at="2019-09-26T11:44:46Z">
+      <class name="com.local.app.SwayamTest">
+        <test-method status="PASS" signature="setup()" name="setup" is-config="true" duration-ms="10993" started-at="2019-09-26T11:44:34Z" finished-at="2019-09-26T11:44:45Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyApplicationLogo()" name="verifyApplicationLogo" duration-ms="371" started-at="2019-09-26T11:44:45Z" finished-at="2019-09-26T11:44:45Z">
+        </test-method>
+        <test-method status="PASS" signature="verifyHomePageTitle()" name="verifyHomePageTitle" duration-ms="380" started-at="2019-09-26T11:44:45Z" finished-at="2019-09-26T11:44:46Z">
+        </test-method>
+        <test-method status="PASS" signature="cleanup()" name="cleanup" is-config="true" duration-ms="191" started-at="2019-09-26T11:44:46Z" finished-at="2019-09-26T11:44:46Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestBasic">
+	<test name="Basic" verbose="1" enabled="true">
+		<classes>
+			<class name="com.local.app.SwayamTest"></class>
+		</classes>
+	</test>
+</suite>
