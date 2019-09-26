@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="in-prapra4925" name="com.local.app.SwayamTest" tests="2" failures="0" timestamp="26 Sep 2019 06:14:46 GMT" time="12.036" errors="0">
+  <testcase name="verifyApplicationLogo" time="0.371" classname="com.local.app.SwayamTest"/>
+  <testcase name="verifyHomePageTitle" time="0.38" classname="com.local.app.SwayamTest"/>
+</testsuite>
